@@ -1,5 +1,6 @@
 # Hi there, I'm Abdullah Tabbal 🇵🇸 🇩🇪 
-[![Linkedin: AbdullahTabbal](https://img.shields.io/badge/-David%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-tabbal-809aa31b1/)](https://www.linkedin.com/in/abdullah-tabbal-809aa31b1/)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abdullah-tabbal-809aa31b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/abdullah-tabbal-809aa31b1?trk=profile-badge">Abdullah Tabbal</a></div>
+              
 
 [AbdullahPS's github stats](https://github-readme-stats.vercel.app/api?username=AbdullahPS&show_icons=true&count_private=true&theme=dracula)
 
